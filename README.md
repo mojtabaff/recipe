@@ -16,3 +16,5 @@ line 2 changed remotely
 - unordered 1
 - unordered 2
 - unordered 3
+
+This is a **bold text** and this one is an *italic text*. 
