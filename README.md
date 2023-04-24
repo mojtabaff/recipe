@@ -20,4 +20,4 @@ line 2 changed remotely
 This is a **bold text** and this one is an *italic text*. 
 
 this is the guacamole picture:
-![guacamole picture](/recipe/recipe.jpg)
+![guacamole picture](https://github.com/mojtabaff/recipe/blob/main/recipe.jpg)
