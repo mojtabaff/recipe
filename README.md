@@ -18,3 +18,6 @@ line 2 changed remotely
 - unordered 3
 
 This is a **bold text** and this one is an *italic text*. 
+
+this is the guacamole picture:
+![guacamole picture](/recipe/recipe.jpg)
